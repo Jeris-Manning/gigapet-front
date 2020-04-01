@@ -1,0 +1,16 @@
+.dashboard-parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* height: 50vh; */
+}
+
+.dashboard-card {
+    height: 250px;
+    width: 150px;
+    border: 1px green solid;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 7px 11px 11px -6px rgba(0,0,0,0.75);
+
+}

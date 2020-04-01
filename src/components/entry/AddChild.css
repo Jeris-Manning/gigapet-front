@@ -1,0 +1,18 @@
+.child-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 80px 30px;
+}
+
+.child-form-input {
+    width: 35%;
+    height: 30px;
+    margin-bottom: 0;
+ }
+
+.add-child-btn {
+    width: 15%;
+    height: 30px;
+    border-radius: 5px;
+}

@@ -1,0 +1,22 @@
+.entry-list-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.entry-list-btn {
+    margin: 10px;
+}
+
+.entry-card-holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.entry-list-card {
+    width: 30%;
+    border: 1px solid green;
+    border-radius: 7px;
+    margin: 5px;
+}
